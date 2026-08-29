@@ -1,2 +1,3 @@
 # Prompt-Library
-Documenting my progress in Prompt Engineering from Day 1. Year 8 student learning to "code" with natural language.
+Welcome! This repository documents my journey into the world of Large Language Models (LLMs). I focus on structured prompting, Chain-of-Thought reasoning, and testing how different models (GPT-5, Claude, Gemini) respond to complex instructions. I believe that the quality of an AI's answer depends on the quality of the question. This repo is a laboratory where I build, test, and refine prompts to turn AI into a high-level assistant for students and creators. This repository is a living log of my progress. Each folder contains a new challenge I’ve tackled—from simple text generation to complex logic puzzles. My goal is to master the art of communicating with AI.
+
