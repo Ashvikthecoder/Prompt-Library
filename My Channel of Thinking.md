@@ -1,4 +1,4 @@
-Today, I will be using Gemini 2.5 flash™ to make a comparison table between two smartphones. 
+Today, I will be using Gemini 3.7 flash™ to make a comparison table between two smartphones. 
 The maxed out configuration of the Galaxy s26 Ultra VS The maxed out configuration of the iPhone 17 pro max.
 I will be using the "Chain of thought" format today, splitting my prompt into:
 . The persona/context: Describing the AI's role or mindset 
