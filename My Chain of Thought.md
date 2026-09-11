@@ -1,0 +1,1 @@
+Today I will be prompting Claude by Anthropic™ to write a MIT- level college essay explaining why I want to be part of their college. As usual, I will first give the AI a vanilla prompt not specifiying anything other than word count, then I will give the AI a structured prompt using the ROTLSS format (Role, Objective, Tone, Length, Story, Style).
