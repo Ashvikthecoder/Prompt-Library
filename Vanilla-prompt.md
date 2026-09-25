@@ -1,3 +1,4 @@
+_Disclaimer: The scenarios that AI has mentioned here are not real but makeshift._
 My vanilla prompt: Write an essay to get into a tech college
 
 Response given by Claude by Anthropic™: 
