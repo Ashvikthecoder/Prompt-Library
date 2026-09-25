@@ -1,0 +1,17 @@
+My vanilla prompt: Write an essay to get into a tech college
+
+Response given by Claude by Anthropic™: 
+
+Why I Want to Study Tech
+
+The first time I got a program to actually work, it didn't feel like success — it felt like a trick. I'd spent two hours chasing a bug that turned out to be a single missing colon, and when the code finally ran, my instinct wasn't relief. It was suspicion. That's it? That's all it wanted? That mix of frustration and disbelief is the exact feeling that's kept me coding ever since — the sense that a computer is a puzzle box with rules I haven't fully learned yet, and that learning them gives me a kind of quiet, specific power.
+
+That feeling turned into something bigger when I started building Nova's ChatBot Factory, a Python project that lets a chatbot switch between different personalities. On paper, it sounds like a novelty — a bot that can be sarcastic in one conversation and gentle in the next. But underneath it was a real design problem: how do you structure code so that "personality" isn't hardcoded, but swappable? I had to think less like someone writing instructions and more like someone building a system that other versions of itself could plug into. It was the first time I understood that programming isn't just about getting an answer — it's about building something flexible enough to hold answers you haven't thought of yet.
+
+That idea followed me into my next project: a browser-based Python learning playground, built as my first real website. I wanted to make the thing I wished I'd had when I started — a place where someone could write actual Python, break it, and see why, without installing anything or feeling embarrassed about not knowing the terminal yet. Building it meant learning web development on top of the Python I already knew, translating between two systems that don't naturally speak to each other. It was slower and more frustrating than either project alone. But it also mattered more, because for the first time I wasn't just solving a problem for myself — I was trying to shrink the distance between "curious beginner" and "person who can build things" for somebody else.
+
+That's the thread running through everything I make: I like technology best when it's a little bit generous. A chatbot that adapts instead of staying flat. A tool that explains itself instead of assuming you already know. I don't think of code as just logic — I think of it as a kind of hospitality, a way of building rooms other people can walk into without feeling lost.
+
+I want to study tech somewhere that treats that instinct as worth sharpening, not just tolerating — a place where I can go from someone who makes things work to someone who understands, structurally, why they work, and can use that understanding to build tools that actually widen who gets to participate. The missing colon taught me that small things matter. Nova and the playground taught me that the point of learning this is to hand some of it back.
+
+Verdict: Although the essay is Verbos and extremely detailed, specifiying my love of tech and accurate scenarios, it isn't actually writing an essay to get into a proper college. This more like a draft for a different question on an application, not "The" essay itself you need to write for most colleges. However, with the vanilla prompt that I have given, this still accomplished a fairly good essay, showing how advanced our AI models have become.
